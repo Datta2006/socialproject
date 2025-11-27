@@ -1,0 +1,6 @@
+data/
+*.csv
+*.zip
+*.h5
+*.pt
+*.pkl
